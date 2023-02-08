@@ -1,3 +1,2 @@
 #!/bin/bash
-that changes the working directory to the user’s home directory
-
+task that changes the working directory to the user’s home directory
