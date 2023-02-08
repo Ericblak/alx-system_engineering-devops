@@ -1,6 +1,2 @@
 #!/bin/bash
-task to Delete the file betty.
-
-
-
-The file betty is in /tmp/my_first_directory
+task to Delete the directory my_first_directory that is in the /tmp directory.
