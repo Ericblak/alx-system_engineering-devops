@@ -1,2 +1,6 @@
 #!/bin/bash
-Move the file betty from /tmp/ to /tmp/my_first_directory
+task to Delete the file betty.
+
+
+
+The file betty is in /tmp/my_first_directory
