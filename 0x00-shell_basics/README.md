@@ -1,2 +1,3 @@
 #!/bin/bash
-task that changes the working directory to the user’s home directory
+task to display current directory contents in a long format
+
