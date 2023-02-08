@@ -1,2 +1,10 @@
 #!/bin/bash
-task to display current directory contents, including hidden files (starting with .). Using the long format
+task to Display current directory contents.
+
+
+
+Long format
+
+with user and group IDs displayed numerically
+
+And hidden files (starting with .)
