@@ -1,3 +1,3 @@
 #!/bin/bash
-task that display the contents list of your current directory
+that changes the working directory to the user’s home directory
 
