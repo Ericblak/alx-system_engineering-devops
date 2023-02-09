@@ -1,1 +1,3 @@
-My first readme
+#!/bin/bash
+Shell basics task 13
+
