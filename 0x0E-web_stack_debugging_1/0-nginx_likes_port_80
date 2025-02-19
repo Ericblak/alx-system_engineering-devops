@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+# nginx and port 80
 apt-get update -y
 apt-get install -y nginx
 sudo service nginx enable
